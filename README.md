@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vivek</h1>
+![image](https://user-images.githubusercontent.com/25459353/175535960-cb7b4552-c765-46a6-a17a-0c62f29c3b12.png)
+
 <h3 align="center">Trying to learn the nuances of Python coding.</h3>
 
 - 🌱 I’m currently learning **contributing to Open Source**
