@@ -2,7 +2,7 @@
 
 <h3 align="left">Trying to learn the nuances of Python coding.</h3>
 
-- 🌱 I’m currently learning **contributing to Open Source**
+- 🌱 I’m currently learning **about how to contribute to Open Source**
 
 - 📫 You can reach me **https://linktr.ee/probablyvivek**
 
