@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/25459353/175535960-cb7b4552-c765-46a6-a17a-0c62f29c3b12.png)
+![image](https://user-images.githubusercontent.com/25459353/175536199-77553e1e-a98a-417b-a265-5b7197b4bd96.png)
 
 <h3 align="center">Trying to learn the nuances of Python coding.</h3>
 
