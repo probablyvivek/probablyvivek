@@ -4,11 +4,9 @@
 
 - 🌱 I’m currently learning **contributing to Open Source**
 
-- 📝 I regularly write articles on [https://stateastic.home.blog/](https://stateastic.home.blog/)
+- 📫 You can reach me **https://linktr.ee/probablyvivek**
 
-- 📫 How to reach me **https://linktr.ee/probablyvivek**
-
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The One Thing Summary](https://stateastic.home.blog/2022/04/15/the-one-thing/)
 - [How to start learning Tableau](https://stateastic.home.blog/2022/04/08/how-to-start-learning-tableau/)
@@ -34,23 +32,17 @@
 </a>  
 </div>  
   
-
 <br/>  
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 <br/>  
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=probablyvivek&show_icons=true&theme=tokyonight)
-
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=probablyvivek&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" /></div>  
 
 <br/>  
-
-
-
-
 
