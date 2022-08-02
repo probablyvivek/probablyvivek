@@ -8,10 +8,10 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting data from FPL and Understat to do analysis](https://stateastic.home.blog/2022/08/02/getting-data-from-fpl-and-understat-to-do-analysis/)
 - [The One Thing Summary](https://stateastic.home.blog/2022/04/15/the-one-thing/)
 - [How to start learning Tableau](https://stateastic.home.blog/2022/04/08/how-to-start-learning-tableau/)
 - [30 Days 30 Charts Challenge](https://stateastic.home.blog/2022/04/04/30-days-30-charts-challenge/)
-- [Drive to Survive: Impact of Netflix on Formula 1](https://stateastic.home.blog/2022/03/28/drive-to-survive-impact-of-netflix-on-formula-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
