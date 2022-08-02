@@ -6,7 +6,7 @@
 
 - 📫 You can reach me **https://linktr.ee/probablyvivek**
 
-## Blogs posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Getting data from FPL and Understat to do analysis](https://stateastic.home.blog/2022/08/02/getting-data-from-fpl-and-understat-to-do-analysis/)
 - [The One Thing Summary](https://stateastic.home.blog/2022/04/15/the-one-thing/)
