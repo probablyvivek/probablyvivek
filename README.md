@@ -67,8 +67,5 @@
  
  </details>
 
-
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=probablyvivek&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" /></div>  
-
 <br/>  
 
