@@ -54,9 +54,6 @@
 ## Github Stats  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
-<details close="true">
-
-
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
   <div align="center">
