@@ -1,3 +1,9 @@
+<div align="center" >
+ 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+  
+ </div>
+
 ![image](https://user-images.githubusercontent.com/25459353/175536199-77553e1e-a98a-417b-a265-5b7197b4bd96.png)
 
 <h3 align="left">Trying to learn the nuances of Python coding.</h3>
