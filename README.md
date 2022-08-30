@@ -63,9 +63,10 @@
   <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=probablyvivek&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probablyvivek&hide=html&layout=compact&theme=highcontrast" />
- </div>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=probablyvivek&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=probablyvivek&theme=dark)](https://git.io/streak-stats)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
