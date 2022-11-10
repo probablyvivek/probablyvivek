@@ -54,21 +54,6 @@
 </p>
 
 
-
- 
-
-## Github Stats  
-
- 
-  <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=probablyvivek&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probablyvivek&hide=html&layout=compact&theme=highcontrast" />
-</div>
-
-
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
 
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
