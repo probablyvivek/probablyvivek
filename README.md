@@ -14,10 +14,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [RFM Analysis For Successful Customer Segmentation](https://stateastic.home.blog/2022/09/25/rfm-analysis-for-successful-customer-segmentation/)
-- [Kneejerk-United](https://stateastic.home.blog/2022/08/27/kneejerk-united/)
-- [Getting data from FPL and Understat to do analysis](https://stateastic.home.blog/2022/08/02/getting-data-from-fpl-and-understat-to-do-analysis/)
-- [The One Thing Summary](https://stateastic.home.blog/2022/04/15/the-one-thing/)
+- [The Remarkable Journey of the Semiconductor Industry](https://visualizetrends.substack.com/p/the-remarkable-journey-of-the-semiconductor)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
