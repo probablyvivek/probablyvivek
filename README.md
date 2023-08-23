@@ -14,6 +14,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Insight Chart: Lunar Exploration](https://visualizetrends.substack.com/p/weekly-insight-chart-lunar-exploration)
 - [The Remarkable Journey of the Semiconductor Industry](https://visualizetrends.substack.com/p/the-remarkable-journey-of-the-semiconductor)
 <!-- BLOG-POST-LIST:END -->
 
