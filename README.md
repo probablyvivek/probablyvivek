@@ -15,7 +15,7 @@
 ## Newsletter - Visualize Trends
 <!-- BLOG-POST-LIST:START -->
 - [Neeraj Chopra: Carving History with Javelin Gold](https://visualizetrends.substack.com/p/neeraj-chopra-carving-history-with)
-- [Weekly Insight Chart: Lunar Exploration](https://visualizetrends.substack.com/p/weekly-insight-chart-lunar-exploration)
+- [Lunar Exploration](https://visualizetrends.substack.com/p/weekly-insight-chart-lunar-exploration)
 - [The Remarkable Journey of the Semiconductor Industry](https://visualizetrends.substack.com/p/the-remarkable-journey-of-the-semiconductor)
 <!-- BLOG-POST-LIST:END -->
 
