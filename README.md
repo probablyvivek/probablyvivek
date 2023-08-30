@@ -12,7 +12,7 @@
 
 - 📫 You can reach me **https://linktr.ee/probablyvivek**
 
-## Blog posts
+## Newsletter - Visualize Trends
 <!-- BLOG-POST-LIST:START -->
 - [Neeraj Chopra: Carving History with Javelin Gold](https://visualizetrends.substack.com/p/neeraj-chopra-carving-history-with)
 - [Weekly Insight Chart: Lunar Exploration](https://visualizetrends.substack.com/p/weekly-insight-chart-lunar-exploration)
