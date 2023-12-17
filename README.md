@@ -14,10 +14,10 @@
 
 ## Newsletter - Visualize Trends
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Google Trends Data with Python: A Step-by-Step Guide](https://visualizetrends.substack.com/p/exploring-google-trends-data-with)
 - [Automating Python and Google Sheets](https://visualizetrends.substack.com/p/automating-python-and-google-sheets)
 - [Neeraj Chopra: Carving History with Javelin Gold](https://visualizetrends.substack.com/p/neeraj-chopra-carving-history-with)
 - [Lunar Exploration](https://visualizetrends.substack.com/p/weekly-insight-chart-lunar-exploration)
-- [The Remarkable Journey of the Semiconductor Industry](https://visualizetrends.substack.com/p/the-remarkable-journey-of-the-semiconductor)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
