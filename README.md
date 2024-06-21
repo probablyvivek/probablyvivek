@@ -1,4 +1,3 @@
-Here is the updated README file with the correct links to your Tableau visualizations:
 
 ---
 
@@ -24,33 +23,22 @@ Welcome to my GitHub profile! I love combining data and art to tell captivating 
 - **SQL**
 - **Excel**
 
-## What I Do
-
-### [Visualize Trends](https://visualizetrends.substack.com)
-Visualize Trends is my newsletter where I bring complex data to life through captivating visual stories. Each edition explores a different topic with valuable insights. Some posts include:
-
-- The Remarkable Journey of the Semiconductor Industry
-- Lunar Exploration
-- Neeraj Chopra: Carving History with Javelin Gold
-- Automating Google Sheets with Python
-- Exploring Google Trends Data with Python: A Step-by-Step Guide
-- Apple Intelligence Explained
 
 ### Current Projects
 
-- **Education Startup**: Creating engaging e-books for kids that teach valuable life lessons through short stories and 'Explain Like I'm 5' (ELI5) concepts.
-- **Football Analytics**: Developing football player cards with data from fbref.com, including player stats and visualizations.
-- **Learning Journey**: Continuously learning and sharing my knowledge about GenAI, SQL, and Python, and engaging in Data Visualization.
+- **The Summer of SQL**: Learning and sharing SQL knowledge through [The Summer of SQL](https://github.com/wjsutton/the_summer_of_sql).
+- **Generative AI for Beginners**: Exploring and learning about Generative AI through [Microsoft's Generative AI for Beginners guide](https://microsoft.github.io/generative-ai-for-beginners/#/).
 
-## Visuals from Tableau
+---
 
+### Visuals from Tableau
 Here are some of my favorite data visualizations created using Tableau:
 
 <table>
   <tr>
     <td>
       <a href="https://public.tableau.com/app/profile/visualizetrends/viz/ViratKohli-TheRunMachine/ViratKohli-RunMachine" target="_blank">
-        <img src="https://github.com/probablyvivek/probablyvivek/blob/main/1.%20Virat%20Kohli%20-%20Run%20Machine.png?raw=True" width="300"/>
+        <img src="https://github.com/probablyvivek/probablyvivek/blob/main/1.%20Virat%20Kohli%20-%20Run%20Machine.png?raw=True" height ="150" width="300"/>
       </a>
     </td>
     <td>
@@ -58,8 +46,6 @@ Here are some of my favorite data visualizations created using Tableau:
         <img src="https://github.com/probablyvivek/probablyvivek/blob/main/2.%20Bharat%20Ratna.png?raw=True" width="300"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://public.tableau.com/app/profile/visualizetrends/viz/BritonsNewYearResolutions_17059511843240/2024BritonsNYResolutions" target="_blank">
         <img src="https://github.com/probablyvivek/probablyvivek/blob/main/3.%202024%20Briton's%20NY%20Resolutions.png?raw=True" width="300"/>
@@ -73,11 +59,30 @@ Here are some of my favorite data visualizations created using Tableau:
   </tr>
 </table>
 
+### Visuals from Python
+
+Here are some of my favorite data visualizations created using Python:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/probablyvivek/probablyvivek/blob/main/1.%20Python%20-%20Game%20Of%20Thrones.png?raw=True" height = "150" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/probablyvivek/probablyvivek/blob/main/2.%20Python%20-%20European%20Leagues2023-24.png?raw=True" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/probablyvivek/probablyvivek/blob/main/3.%20Python%20-%20StamfordBridge.png?raw=True" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/probablyvivek/probablyvivek/blob/main/4.%20Python%20-%20EPL_Standings_24.png?raw=True" width="300"/>
+    </td>
+  </tr>
+</table>
+
 ## Connect with Me
 
-- **Twitter**: [@VisualizeTrends](https://twitter.com/VisualizeTrends)
-- **LinkedIn**: [Vivek Tiwari](https://www.linkedin.com/in/vivek-tiwari/)
+- **X**: [@VisualizeTrends](https://twitter.com/VisualizeTrends)
+- **LinkedIn**: [Vivek Tiwari](https://www.linkedin.com/in/vivektiwari13/)
 
 ---
-
-This layout will display your Tableau visuals in two columns and allow users to click on the images to open the respective URLs in a new tab.
