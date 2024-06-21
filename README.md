@@ -96,5 +96,3 @@ Here are some of the books I'm currently reading on Goodreads:
 - **Tableau Public**: [Visualize Trends](https://public.tableau.com/app/profile/visualizetrends/vizzes)
 
 ---
-
-
