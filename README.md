@@ -66,7 +66,7 @@ Here are some of my favorite data visualizations created using Python:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/probablyvivek/probablyvivek/blob/main/1.%20Python%20-%20Game%20Of%20Thrones.png?raw=True" height = "150" width="300"/>
+      <img src="https://github.com/probablyvivek/probablyvivek/blob/main/1.%20Python%20-%20Game%20Of%20Thrones.png?raw=True" width="300"/>
     </td>
     <td>
       <img src="https://github.com/probablyvivek/probablyvivek/blob/main/2.%20Python%20-%20European%20Leagues2023-24.png?raw=True" width="300"/>
