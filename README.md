@@ -80,9 +80,19 @@ Here are some of my favorite data visualizations created using Python:
   </tr>
 </table>
 
+---
+## Current Books I'm Reading
+
+Here are some of the books I'm currently reading on Goodreads:
+
+[![Goodreads](https://img.shields.io/badge/Goodreads-Visit%20My%20Profile-green)](https://www.goodreads.com/user/show/26703575-vivek-tiwari)
+
+
 ## Connect with Me
 
 - **X**: [@VisualizeTrends](https://twitter.com/VisualizeTrends)
 - **LinkedIn**: [Vivek Tiwari](https://www.linkedin.com/in/vivektiwari13/)
 
 ---
+
+
