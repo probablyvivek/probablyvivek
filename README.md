@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I love combining data and art to tell captivating 
 - **Excel**
 
 
-### Current Projects
+### Currently Working On
 
 - **The Summer of SQL**: Learning and sharing SQL knowledge through [The Summer of SQL](https://github.com/wjsutton/the_summer_of_sql).
 - **Generative AI for Beginners**: Exploring and learning about Generative AI through [Microsoft's Generative AI for Beginners guide](https://microsoft.github.io/generative-ai-for-beginners/#/).
