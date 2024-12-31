@@ -1,6 +1,3 @@
-
----
-
 # Hi, I am Vivek Tiwari
 
 ---
@@ -21,7 +18,6 @@ Welcome to my GitHub profile! I love combining data and art to tell captivating 
 - **Python**
 - **SQL**
 - **Excel**
-
 
 ### Currently Working On
 
@@ -85,7 +81,6 @@ Here are some of the books I'm currently reading on Goodreads:
 
 [![Goodreads](https://img.shields.io/badge/Goodreads-Visit%20My%20Profile-green)](https://www.goodreads.com/user/show/26703575-vivek-tiwari)
 
-
 ## Connect with Me
 
 - **X**: [@VisualizeTrends](https://twitter.com/VisualizeTrends)
@@ -94,3 +89,6 @@ Here are some of the books I'm currently reading on Goodreads:
 - **Tableau Public**: [Visualize Trends](https://public.tableau.com/app/profile/visualizetrends/vizzes)
 
 ---
+Thanks for visiting my profile!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=probablyvivek&show_icons=true&theme=radical)
