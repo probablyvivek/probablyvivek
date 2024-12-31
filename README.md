@@ -25,6 +25,16 @@ Welcome to my GitHub profile! I love combining data and art to tell captivating 
 
 ---
 
+### Plans for 2025
+
+In 2025, I will be learning:
+- **MongoDB**
+- **Databricks**
+- **Postgres**
+
+#### And ofcourse whatever latest will be going on in the world of Generative AI. 
+---
+
 ### Visuals from Tableau
 Here are some of my favorite data visualizations created using Tableau:
 
