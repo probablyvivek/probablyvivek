@@ -21,8 +21,7 @@ Welcome to my GitHub profile! I love combining data and art to tell captivating 
 
 ### Currently Working On
 
-- **Data Analytics Portfolio**: Exploring the world of Data Analysis using Python and SQL [Data Analytics Portfolio](https://github.com/probablyvivek/Data-Analysis-Portfolio)
-
+- **Data Analytics Portfolio**: Exploring the world of Data Analysis using Python and SQL [Data Analytics Portfolio](https://github.com/probablyvivek/Data-Analytics-Portfolio)
 ---
 
 ### Plans for 2025
@@ -32,7 +31,7 @@ In 2025, I will be learning:
 - **Databricks**
 - **Postgres**
 
-#### And ofcourse whatever latest will be going on in the world of Generative AI. 
+#### And ofcourse whatever latest will be going on in the world of Generative AI.
 ---
 
 ### Visuals from Tableau
