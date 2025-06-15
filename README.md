@@ -1,41 +1,48 @@
-# Hi, I am Vivek Tiwari
+# Hi, I’m Vivek Tiwari
 
 ---
 
-### Creator of [Visualize Trends](https://visualizetrends.substack.com)
+### Creator of [**context_length**](https://contextlength.substack.com)
 
-Welcome to my GitHub profile! I love combining data and art to tell captivating stories. My newsletter, Visualize Trends, focuses on Generative AI, Data Visualization, and Sports.
+Welcome to my GitHub space — where **machine learning, generative AI, and data storytelling** intersect.  
+At **context_length**, I explore the systems that shape our world — through clean code, sharp visuals, and crisp insights.
 
-## About Me
-
-- **Generative AI Enthusiast**: Exploring new ways to use AI for creating unique content.
-- **Data Visualization Expert**: Turning complex data into easy-to-understand visuals using tools like Tableau and QuickSight.
-- **Sports Analytics Fan**: Using data analysis to find interesting insights in sports.
-
-### Skills
-
-- **Tableau**
-- **Python**
-- **SQL**
-- **Excel**
-
-### Currently Working On
-
-- **Data Analytics Portfolio**: Exploring the world of Data Analysis using Python and SQL [Data Analytics Portfolio](https://github.com/probablyvivek/Data-Analytics-Portfolio)
 ---
 
-### Plans for 2025
+## 👨‍💻 About Me
 
-In 2025, I will be learning:
-- **MongoDB**
-- **Databricks**
-- **Postgres**
+- **Generative AI Explorer** → Experimenting with models, prompts, and creativity at scale.
+- **Data Visualizer** → Turning raw numbers into compelling narratives using **Tableau**, **QuickSight**, and **Python**.
+- **Sports Analytics Fanatic** → Digging into football data, performance trends, and strategic insights.
 
-#### And ofcourse whatever latest will be going on in the world of Generative AI.
 ---
 
-### Visuals from Tableau
-Here are some of my favorite data visualizations created using Tableau:
+## 🛠 Skills
+
+- **Python**, **SQL**, **Excel**
+- **Tableau**, **Quicksight**
+- Data wrangling, dashboarding, automation
+
+---
+
+## 🚧 Currently Building
+
+- [**Data Analytics Portfolio**](https://github.com/probablyvivek/Data-Analytics-Portfolio): Hands-on projects in SQL, Python, and storytelling  
+- **LLM prompt experiments** and AI-powered workflows  
+- Weekly drops on [**context_length.substack.com**](https://contextlength.substack.com)
+
+---
+
+## 🔭 2025 Learning Goals
+
+- **MongoDB**  
+- **PostgreSQL**  
+- **Databricks**  
+- And whatever’s pushing the edge in **Generative AI**
+
+---
+
+## 📊 Tableau Visuals
 
 <table>
   <tr>
@@ -62,9 +69,9 @@ Here are some of my favorite data visualizations created using Tableau:
   </tr>
 </table>
 
-### Visuals from Python
+---
 
-Here are some of my favorite data visualizations created using Python:
+## 📈 Python Visualizations
 
 <table>
   <tr>
@@ -84,20 +91,23 @@ Here are some of my favorite data visualizations created using Python:
 </table>
 
 ---
-## Current Books I'm Reading
 
-Here are some of the books I'm currently reading on Goodreads:
+## 📚 Currently Reading
 
 [![Goodreads](https://img.shields.io/badge/Goodreads-Visit%20My%20Profile-green)](https://www.goodreads.com/user/show/26703575-vivek-tiwari)
 
-## Connect with Me
+---
 
-- **X**: [@VisualizeTrends](https://twitter.com/VisualizeTrends)
-- **LinkedIn**: [Vivek Tiwari](https://www.linkedin.com/in/vivektiwari13/)
-- **Instagram**: [Visualize Trends](https://www.instagram.com/visualizetrends/)
+## 🌐 Connect with Me
+
+- **X**: [@context_length](https://twitter.com/context_length)  
+- **LinkedIn**: [Vivek Tiwari](https://www.linkedin.com/in/vivektiwari13/)  
+- **Instagram**: [context_length](https://www.instagram.com/context_length/)  
 - **Tableau Public**: [Visualize Trends](https://public.tableau.com/app/profile/visualizetrends/vizzes)
 
 ---
-Thanks for visiting my profile!
+
+Thanks for scrolling.  
+**Context isn’t just input. It’s everything.**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=probablyvivek&show_icons=true&theme=radical)
