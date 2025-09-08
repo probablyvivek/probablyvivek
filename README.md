@@ -103,7 +103,7 @@ At **context_length**, I explore the systems that shape our world — through cl
 - **X**: [@context_length](https://twitter.com/context_length)  
 - **LinkedIn**: [Vivek Tiwari](https://www.linkedin.com/in/vivektiwari13/)  
 - **Instagram**: [context_length](https://www.instagram.com/context_length/)  
-- **Tableau Public**: [Visualize Trends](https://public.tableau.com/app/profile/visualizetrends/vizzes)
+- **Tableau Public**: [Context Length](https://public.tableau.com/app/profile/contextlength/vizzes)
 
 ---
 
