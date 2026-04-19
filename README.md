@@ -2,10 +2,9 @@
 
 ---
 
-### Creator of [**context_length**](https://contextlength.substack.com)
+### Creator of [**chaiovercode**](https://chaiovercode.com)
 
 Welcome to my GitHub space — where **machine learning, generative AI, and data storytelling** intersect.  
-At **context_length**, I explore the systems that shape our world — through clean code, sharp visuals, and crisp insights.
 
 ---
 
@@ -29,7 +28,6 @@ At **context_length**, I explore the systems that shape our world — through cl
 
 - [**Data Analytics Portfolio**](https://github.com/probablyvivek/Data-Analytics-Portfolio): Hands-on projects in SQL, Python, and storytelling  
 - **LLM prompt experiments** and AI-powered workflows  
-- Weekly drops on [**context_length.substack.com**](https://contextlength.substack.com)
 
 ---
 
@@ -97,13 +95,6 @@ At **context_length**, I explore the systems that shape our world — through cl
 [![Goodreads](https://img.shields.io/badge/Goodreads-Visit%20My%20Profile-green)](https://www.goodreads.com/user/show/26703575-vivek-tiwari)
 
 ---
-
-## 🌐 Connect with Me
-
-- **X**: [@context_length](https://twitter.com/context_length)  
-- **LinkedIn**: [Vivek Tiwari](https://www.linkedin.com/in/vivektiwari13/)  
-- **Instagram**: [context_length](https://www.instagram.com/context_length/)  
-- **Tableau Public**: [Context Length](https://public.tableau.com/app/profile/contextlength/vizzes)
 
 ---
 
